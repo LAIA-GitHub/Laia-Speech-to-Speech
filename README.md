@@ -4,4 +4,4 @@ We have created Laia, a machine learning device that learns from the input of th
 
 ## The code
 
-![image](https://github.com/LAIA-GitHub/Laia-Speech-to-Speech/assets/170356557/703abdeb-faae-46b9-b583-441962887a79){ width="340" }
+![image](https://github.com/LAIA-GitHub/Laia-Speech-to-Speech/assets/170356557/429d185b-ac3c-4a36-b5b3-506cf1484cfa)
