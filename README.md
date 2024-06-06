@@ -56,13 +56,3 @@ The two pieces are the same, 470x818mm
 7. Ensemble the pieces with nails or Velcro stripes (this step is still on the works...)
 8. Add the electronics (this step is still on the works...)
 
-
-
-
-
-
-## Reflection
-### Problems we faced:
-
-### Future expectations:
-
